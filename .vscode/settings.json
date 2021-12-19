@@ -1,0 +1,24 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__string": "cpp",
+        "algorithm": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "bitset": "cpp",
+        "regex": "cpp",
+        "15_CIRCULAR_QUEUE.C": "cpp",
+        "numbers": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false,
+    "git.ignoreLimitWarning": true
+}
